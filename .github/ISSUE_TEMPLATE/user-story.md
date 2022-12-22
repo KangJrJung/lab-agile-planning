@@ -15,3 +15,7 @@ assignees: ''
 * {document what you know}
 
 ### Acceptance Criteria:
+'''Gherkin
+Given I
+When I
+Then I
